@@ -1,0 +1,9 @@
+Stasm version 4.1.0  Logging to stasm.log
+Open ../data/haarcascade_frontalface_alt2.xml
+Open ../data/haarcascade_mcs_lefteye.xml
+Open ../data/haarcascade_mcs_righteye.xml
+Reading ../tests/data/testface.shape: 1 shape
+Using 1 shape
+Writing fit/testface.fit
+testface: Open ../data/testface.jpg YAW00  yaw   0 rot   0 meanfit 0.037 me17 0.034 fm29 0.031 
+[MeanTimePerImg 0.281]

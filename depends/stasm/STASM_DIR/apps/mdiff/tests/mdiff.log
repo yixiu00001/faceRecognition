@@ -1,0 +1,36 @@
+../apps/mdiff/tests/test1     3: word1
+../apps/mdiff/tests/test2     3: word word word word
+
+../apps/mdiff/tests/test1     5: SHORT FILE
+../apps/mdiff/tests/test2     5: word word
+
+../apps/mdiff/tests/test1     4: word word
+../apps/mdiff/tests/test3     4: SHORT FILE
+
+../apps/mdiff/tests/test1     4: word word
+../apps/mdiff/tests/test4     4: SHORT FILE
+
+../apps/mdiff/tests/test1     3: word1
+../apps/mdiff/tests/test5     3: word2
+
+     ../apps/mdiff/tests/test6     3: line3
+../apps/mdiff/tests/test6extra     3: extra1 [Time 1:23]
+
+     ../apps/mdiff/tests/test6     5: line5
+../apps/mdiff/tests/test6extra     5: extra2 [Time 1:23] word
+
+     ../apps/mdiff/tests/test6     8: extra3 [Time 4.56]
+../apps/mdiff/tests/test6extra     8: line8
+
+     ../apps/mdiff/tests/test6    10: line10
+../apps/mdiff/tests/test6extra    10: extra4
+
+     ../apps/mdiff/tests/test6    15: SHORT FILE
+../apps/mdiff/tests/test6extra    15: line13
+
+     ../apps/mdiff/tests/test7     6: line5
+../apps/mdiff/tests/test7extra     6: line4a
+
+     ../apps/mdiff/tests/test7    16: SHORT FILE
+../apps/mdiff/tests/test7extra    16: line13
+

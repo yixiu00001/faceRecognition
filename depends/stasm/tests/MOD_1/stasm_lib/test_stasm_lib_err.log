@@ -1,0 +1,5 @@
+Stasm version 4.1.0  Logging to stasm.log
+Open ../data/haarcascade_frontalface_alt2.xml
+Open ../data/haarcascade_mcs_lefteye.xml
+Open ../data/haarcascade_mcs_righteye.xml
+Expect assertion fail here: stasm_lib.cpp(117) : Assertion failed : imgpath && STRNLEN(imgpath, SLEN) < SLEN

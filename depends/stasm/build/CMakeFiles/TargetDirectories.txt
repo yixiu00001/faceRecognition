@@ -1,0 +1,6 @@
+/root/Face/project/facePro/depends/stasm/build/CMakeFiles/minimal.dir
+/root/Face/project/facePro/depends/stasm/build/CMakeFiles/minimal2.dir
+/root/Face/project/facePro/depends/stasm/build/CMakeFiles/stasm.dir
+/root/Face/project/facePro/depends/stasm/build/CMakeFiles/stasmMain.dir
+/root/Face/project/facePro/depends/stasm/build/CMakeFiles/swas.dir
+/root/Face/project/facePro/depends/stasm/build/CMakeFiles/tasm.dir
